@@ -22,4 +22,12 @@
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
+  
+  <a href="https://open.spotify.com/playlist/13oCB6EbaY2kKVLOoJR6t3">
+    <img
+      alt="Spotify"
+      src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
+    />
+  </a>
+  
 </div>
