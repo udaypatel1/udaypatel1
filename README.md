@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![stats](https://github-readme-stats.vercel.app/api?username=udaypatel1&show_icons=true&count_private=true&theme=cobalt&hide=issues,contribs)
+  ![stats](https://github-readme-stats.vercel.app/api?username=udaypatel1&show_icons=true&count_private=true&rank_icon=github&theme=cobalt&hide=issues,contribs)
     
   <a href="https://www.linkedin.com/in/uday3patel/">
     <img
@@ -23,7 +23,14 @@
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
+
+  <h4></h4>
   
 </div>
 
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaypatel1&layout=compact&theme=cobalt&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
