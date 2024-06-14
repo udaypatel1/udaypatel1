@@ -1,3 +1,4 @@
+
 <div align="center">
 
   ![stats](https://github-readme-stats.vercel.app/api?username=udaypatel1&show_icons=true&count_private=true&theme=cobalt&hide=issues,contribs)
@@ -20,13 +21,6 @@
     <img
       alt="Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-  
-  <a href="https://open.spotify.com/playlist/13oCB6EbaY2kKVLOoJR6t3">
-    <img
-      alt="Spotify"
-      src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
     />
   </a>
   
