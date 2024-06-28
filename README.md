@@ -32,5 +32,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaypatel1&layout=compact&theme=cobalt&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+  ![](https://komarev.com/ghpvc/?username=udaypatel1)
 
+</div>
