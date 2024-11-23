@@ -1,36 +1,62 @@
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+</th>
+<th align="center">
+<img width="441" height="1">
+</th>
+</tr>
+<tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
 
-<div align="left">
+## Hello! 👋🏽
 
-  <!--
-  ![stats](https://github-readme-stats.vercel.app/api?username=udaypatel1&show_icons=true&count_private=true&rank_icon=github&theme=cobalt&hide=issues,contribs)
-  -->
+My name is Uday Patel and I am a Software Engineer.
 
-  ### Welcome!
+- Full Stack scope with a Distributed Systems interest ⚙️
+- Enjoy learning about Urban Development 🏗
+- Tennis + Pickleball enthusiast 🎾
+- NY Giants, LA Clippers, NY Yankees, NJ Devils, West Ham 🏟️
+- Fan of Cinema and unique Storytelling 🎬
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+
+<div align="center">
 
   ![](https://komarev.com/ghpvc/?username=udaypatel1)
-  
+    
   ![](https://media1.giphy.com/media/3oz8xHEisOJuebgmhq/giphy.gif)
-  
+    
   <a href="https://www.linkedin.com/in/uday3patel/">
     <img
       alt="Linkedin"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  
+    
   <a href="https://www.instagram.com/udaypatel3/">
     <img
       alt="Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
+
+</div>
   
-</div>
-
+</td>
+</tr>
 <!--
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaypatel1&layout=compact&theme=cobalt&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
 -->
+</table>
