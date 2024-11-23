@@ -1,11 +1,11 @@
 
-<div align="center">
+<div align="left">
 
   <!--
   ![stats](https://github-readme-stats.vercel.app/api?username=udaypatel1&show_icons=true&count_private=true&rank_icon=github&theme=cobalt&hide=issues,contribs)
   -->
 
-  ### *Welcome, fellow traveler of the interwebs!*
+  ### Welcome!
 
   ![](https://komarev.com/ghpvc/?username=udaypatel1)
   
@@ -15,13 +15,6 @@
     <img
       alt="Linkedin"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  
-  <a href="https://leetcode.com/u/uday3patel/">
-    <img
-      alt="Leetcode"
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
     />
   </a>
   
