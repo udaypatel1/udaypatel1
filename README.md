@@ -5,9 +5,9 @@ My name is Uday Patel and I am a Software Engineer.
 
 - Full Stack, product-oriented scope with a keen interest in infrastructure ⚙️
 - Enjoy learning about Urban Development 🏗
-- Tennis + Pickleball enthusiast 🎾
+- Tennis + Pickleball enthusiast 👟
 - NY Giants + LA Clippers + NY Yankees + NJ Devils + West Ham United F.C. Fanatic 🏟️
-- Fan of Cinema and unique Storytelling 🎬
+- Admirer of Cinema and unique Storytelling 🎬
 
 Feel free to reach out! I love a good discourse.
 
